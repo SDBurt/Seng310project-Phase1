@@ -6,13 +6,18 @@ The above link has basic git commands. For this project, the group will be using
 
 in order, we will use
 **status** to determine which files to add and what the status is
+
 **clone** to transfer the repo to your local machine
+
 **add** to add the files to be commited
+
 **commit** to set changes
+
 **push** to push them to the repo
-        For git push, please use "git push origin <branch>"
+       - For git push, please use "git push origin <branch>"
 
 **branch** for manipulating your branch
+
 **checkout** switch branches
 
 ## Welcome to GitHub Pages
