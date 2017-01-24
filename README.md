@@ -1,3 +1,20 @@
+## Seans Edit for readme
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+The above link has basic git commands. For this project, the group will be using:
+
+in order, we will use
+**status** to determine which files to add and what the status is
+**clone** to transfer the repo to your local machine
+**add** to add the files to be commited
+**commit** to set changes
+**push** to push them to the repo
+        For git push, please use "git push origin <branch>"
+
+**branch** for manipulating your branch
+**checkout** switch branches
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SDBurt/Seng310project-Phase1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
