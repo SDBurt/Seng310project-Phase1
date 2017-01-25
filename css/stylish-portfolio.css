@@ -57,6 +57,10 @@ body {
     background-color: rgba(255,255,255,0.8);
 }
 
+.h2-left, .lead-body {
+  text-align: left;
+}
+
 /* Custom Horizontal Rule */
 
 hr.small {
