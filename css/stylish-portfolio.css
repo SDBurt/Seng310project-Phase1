@@ -56,9 +56,22 @@ body {
 	color: #333;
 	background-color: rgba(255,255,255,0.8);
 }
+.lead h1{
+  font-size: 60px;
+  font-weight: bold;
+}
 
-.h2-left, .lead-body {
+.lead-body {
   text-align: left;
+}
+
+.lead-body h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.lead-body h3 {
+  font-size: 30px;
 }
 
 /* Custom Horizontal Rule */
