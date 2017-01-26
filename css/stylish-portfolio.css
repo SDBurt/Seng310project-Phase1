@@ -72,6 +72,8 @@ body {
 
 .lead-body h3 {
   font-size: 30px;
+	text-indent: 20px;
+
 }
 
 /* Custom Horizontal Rule */
